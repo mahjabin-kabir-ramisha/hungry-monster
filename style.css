@@ -3,21 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-a {
-    text-decoration: none;
-    transition: 0.2s;
-    color: #e74c3c;
-}
-
-body {
-    font-family: 'Roboto', sans-serif;
-}
-
-/* *******************
-* Search Bar Style
-**********************/
-
 .inner-form {
     display: -ms-flexbox;
     display: flex;
